@@ -31,7 +31,7 @@ Hi, I’m Ganesh Chandra Panda, Data Analyst & Software Engineer
 - 💡 Skilled in crafting reports that don't just show numbers, but actually help you understand what they mean.
 - 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
 - 💬 Feel free to ask me about Data Analysis or My Journey.
-- ⚡ Fun fact - A **Marine Engineer** turned **IT Professional**
+- ⚡ Fun fact - A **Software Engineer** turned **DATA Professional**
 
 <br>
 
