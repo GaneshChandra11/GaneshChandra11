@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 <!-- Right-Aligned Animated Image -->
-<img align="right" src="https://github.com/Pravesh-Agarwal/Pravesh-Agarwal/blob/main/assets/data-science-giphy.gif" width="400" height="340">
+<img align="right" src="" width="400" height="340">
 
 <!-- Brief Introduction Section -->
 <h3>
