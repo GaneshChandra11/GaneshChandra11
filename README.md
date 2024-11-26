@@ -22,7 +22,7 @@
 
 <!-- Brief Introduction Section -->
 <h3>
-Hi, I’m Ganesh Chandra Panda, Data Analyst & Ex Merchant Marine from India 🇮🇳
+Hi, I’m Ganesh Chandra Panda, Data Analyst & Software Engineer
 </h3>
 
 <!-- Key Points About the Profile -->
