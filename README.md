@@ -8,7 +8,7 @@
   <!-- Profile Header with Typing Animation --> 
   <h1 align="center"> 
     <!-- Typing Animation for Profile Greeting --> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=नमस्ते+(Namaste)+🙏🏽;+I'm+Ganesh+Chandra+Panda+👋🏽;Welcome+to+My+GitHub!+✨"> </h1> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=HI+🙏🏽;+I'm+Ganesh+Chandra+Panda+👋🏽;Welcome+to+My+GitHub!+✨"> </h1> 
     <!-- Social Media Buttons --> 
     <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="#"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"> </a> <a href="#"> <img src="https://img.shields.io/badge/HackerRank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"> </a> <a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </p>
     
