@@ -2,7 +2,8 @@
   <!-- Profile Header with Typing Animation --> 
   <h1 align="left"> 
     <!-- Typing Animation for Profile Greeting --> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=Hi+👋🏽;+I'm+Ganesh+Chandra+Panda;You+are+Welcome!+✨"> </h1> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BD+;I'm+Ganesh+Chandra+Panda+;You+are+Welcome!+%E2%9C%A8" alt="Typing SVG" /></a>
+</h1> 
     <!-- Social Media Buttons --> 
     <p align="right"> 
       <a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
