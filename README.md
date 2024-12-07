@@ -2,7 +2,7 @@
   <!-- Profile Header with Typing Animation --> 
   <h1 align="left"> 
     <!-- Typing Animation for Profile Greeting --> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=Hi+👋🏽;+I'm+Ganesh+Chandra+Panda;Welcome+to+My+GitHub!+✨"> </h1> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=Hi+👋🏽;+I'm+Ganesh+Chandra+Panda;You +are+Welcome!+✨"> </h1> 
     <!-- Social Media Buttons --> 
     <p align="center"> 
       <a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
