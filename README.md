@@ -44,7 +44,8 @@
 <!-- Fun Section -->
 <h2>⚡ Fun Fact</h2> I transitioned from a Software Engineer to a Data Professional and never looked back. Every dataset has a story and I enjoy being its storyteller.✨
 <!-- Closing Section -->
-<h3 align="center">🤝 Let’s Connect & Collaborate!</h3> <p align="center"> If you're looking for a data enthusiast who transforms raw data into actionable insights, let's connect. Your next impactful decision might just start with data. </p> 
+<h3 align="center">🤝 Let’s Connect & Collaborate!</h3>
+<p align="center"> If you're looking for a data enthusiast who transforms raw data into actionable insights, let's connect. Your next impactful decision might just start with data. </p> 
 <h5 align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Thanks+For+Visiting!%E2%9C%8C%F0%9F%8F%BD;Have+a+Nice+Day!+%E2%9C%A8" alt="Typing SVG" />
 </a>
