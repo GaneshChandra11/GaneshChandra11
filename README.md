@@ -24,7 +24,7 @@
 <!-- Profile Visitors Counter --> 
 <p align="left"> 
   <!-- Profile Visitors Badge --> 
-  <img src="https://komarev.com/ghpvc/?username=ganesh-chandra-panda&label=Profile+Visitors&style=for-the-badge&color=Cetacean Blue"> </p>
+  <img src="https://komarev.com/ghpvc/?username=ganesh-chandra-panda&label=Profile+Visitors&style=for-the-badge&color=RGB (2, 7, 78)"> </p>
 <!-- Tools and Technologies Section -->
 
 <h2>💻 Tools & Technologies</h2> <p> <a href="#"> <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50" title="Microsoft Excel"/> </a> <a href="#"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" width="50" height="50" title="Power BI"/> </a> <a href="#"> <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySQL" width="50" height="50" title="MySQL"/> </a> <a href="#"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50" title="Python"/> </a> </p>
