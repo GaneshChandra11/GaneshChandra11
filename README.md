@@ -36,13 +36,14 @@
 <h2>💻 Tools & Technologies</h2> <p> <a href="#"> <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50" title="Microsoft Excel"/> </a> <a href="#"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" width="50" height="50" title="Power BI"/> </a> <a href="#"> <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySQL" width="50" height="50" title="MySQL"/> </a> <a href="#"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50" title="Python"/> </a> </p>
 
 <!-- Technical Skills --> 
-<h2>📍 Technical Skills</h2>  
+<!-- <h2>📍 Technical Skills</h2>  
 
 📊 Power BI: Data Modeling, DAX, Power Query, ETL, and creating visually appealing reports.  
 🛢️ SQL: Expertise in queries, joins, window functions, and database optimization.  
 📑 MS Excel: Advanced functions, data cleaning, dashboards, and Power Query.  
 🐍 Python: Proficiency in data manipulation and visualization using Pandas, Numpy, and Matplotlib.  
 🛠️ Others: Google Sheets, MS Office Suite, PowerPoint, Canva.
+-->
 <!-- Fun Section -->
 <h2>⚡ Fun Fact</h2> I transitioned from a Software Engineer to a Data Professional and never looked back. Every dataset has a story and I enjoy being its storyteller.✨
 <!-- Closing Section -->
