@@ -1,6 +1,6 @@
 
   <!-- Profile Header with Typing Animation --> 
-  <h1 align="right"> 
+  <h1 align="left"> 
     <!-- Typing Animation for Profile Greeting --> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=Hi+👋🏽;+I'm+Ganesh+Chandra+Panda;Welcome+to+My+GitHub!+✨"> </h1> 
     <!-- Social Media Buttons --> 
