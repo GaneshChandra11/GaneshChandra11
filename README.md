@@ -4,7 +4,7 @@
     <!-- Typing Animation for Profile Greeting --> 
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&width=600&height=60&duration=5000&lines=Hi+👋🏽;+I'm+Ganesh+Chandra+Panda;You+are+Welcome!+✨"> </h1> 
     <!-- Social Media Buttons --> 
-    <p align="center"> 
+    <p align="right"> 
       <a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
       <a href="#"> <img src="https://img.shields.io/badge/HackerRank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"> </a> 
       <a href="#"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"> </a> 
