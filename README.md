@@ -1,17 +1,20 @@
 
+<!--Banner-->
+
   <!-- Profile Header with Typing Animation --> 
   <h1 align="left"> 
     <!-- Typing Animation for Profile Greeting --> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BD+;I'm+Ganesh+Chandra+Panda+;You+are+Welcome!+%E2%9C%A8" alt="Typing SVG" /></a>
-</h1> 
-    <!-- Social Media Buttons --> 
-    <p align="right"> 
+     <!-- Social Media Buttons -->
+     <p align="right"> 
       <a href="#"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
       <a href="#"> <img src="https://img.shields.io/badge/HackerRank-00883A?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"> </a> 
       <a href="#"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"> </a> 
       <a href="#"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"> </a> 
       <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>   
     </p>
+</h1> 
+
     
 <!-- Brief Introduction Section --> 
 <h2 align="center">👋 About Me</h2> <p align="justify"> I'm Ganesh Chandra Panda, a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My journey started in software engineering, but my love for data propelled me into analytics, where I thrive on solving real-world problems using data-driven solutions. </p> <h3>🌟 What I Bring to the Table</h3>  
