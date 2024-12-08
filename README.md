@@ -12,10 +12,10 @@
 
 <h3>🌟How I Add Value</h3>  
 
-- 📊 Data Visualization: Designing compelling visuals to translate complex data into clear, actionable insights.  
-- 🔍 Data Analysis: Identifying trends, patterns, and opportunities to unlock value from raw datasets.  
-- 🧼 Data Cleaning & Modeling: Enhancing data quality through meticulous standardization, deduplication, and transformation.  
-- 📝 Reporting & Dashboarding: Developing interactive dashboards that tell data-driven stories and drive informed decisions.  
+- 🧼 Data Cleaning & Modeling: Enhancing data quality through meticulous standardization, deduplication, and transformation.
+- 📊 Data Visualization: Designing compelling visuals to translate complex data into clear, actionable insights.
+- 📝 Reporting & Dashboarding: Developing interactive dashboards that tell data-driven stories and drive informed decisions.   
+- 🔍 Data Analysis: Identifying trends, patterns, and opportunities to unlock value from raw datasets.    
 - 📈 Business Intelligence: Providing strategic insights to support key business decisions and objectives.  
 - 💡 Data Storytelling: Transforming numbers into relatable narratives to engage and inform diverse audiences.  
 <!-- Profile Visitors Counter --> 
@@ -41,7 +41,7 @@
 <!-- Closing Section -->
 <h3 align="center">🤝 Let’s Connect & Collaborate!</h3>
 <p align="center"> If you're looking for a data enthusiast who transforms raw data into actionable insights, let's connect. Your next impactful decision might just start with data. </p> 
-<h3 align="center"> 
+<p>    </p> <h3 align="center"> 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Thanks+For+Visiting!%E2%9C%8C%F0%9F%8F%BD;Have+a+Nice+Day!+%E2%9C%A8" alt="Typing SVG" />
 </a>
