@@ -8,7 +8,7 @@
     <!-- Typing Animation for Profile Greeting --> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BD+;I'm+Ganesh+Chandra+Panda+;You+are+Welcome!+%E2%9C%A8" alt="Typing SVG" /></a>
   </h1>
-<p align="justify"> I'm a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My journey started in Full-Stack Developer, but my love for data propelled me into analytics, where I thrive on solving real-world problems using data-driven solutions. </p> 
+<p align="justify"> I'm a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My journey started as a Full-Stack Developer, but my love for data propelled me into analytics, where I thrive on solving real-world problems using data-driven solutions. </p> 
 
 <h3>🌟How I Add Value</h3>  
 
