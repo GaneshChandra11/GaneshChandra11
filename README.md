@@ -1,5 +1,7 @@
 
 <!--Banner-->
+![Github Cover](https://github.com/user-attachments/assets/9990a3a5-4389-49bf-a537-313a3a516fab)
+
 
   <!-- Profile Header with Typing Animation --> 
   <h1 align="left"> 
