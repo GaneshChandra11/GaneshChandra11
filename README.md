@@ -41,6 +41,9 @@
 <!-- Closing Section -->
 <h3 align="center">🤝 Let’s Connect & Collaborate!</h3>
 <p align="center"> If you're looking for a data enthusiast who transforms raw data into actionable insights, let's connect. Your next impactful decision might just start with data. </p> 
+<a href="mailto:ganeshchandra.cs.it@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="ganeshchandra.cs.it@gmail.com" style="margin-bottom: 5px;" />
+</a>
 <h3 align="center"> 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
     <a href="https://git.io/typing-svg">
