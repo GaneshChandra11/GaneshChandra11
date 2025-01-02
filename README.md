@@ -37,7 +37,7 @@
 <!-- Fun Section -->
 <!-- <h2>⚡ Fun Fact</h2> I transitioned from a Software Engineer to a Data Professional and never looked back. Every dataset has a story and I enjoy being its storyteller.✨
 -->
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- Closing Section -->
 <h3 align="center">🤝 Let’s Connect & Collaborate!</h3>
 <p align="center"> Your next impactful decision might just start with data. If you're looking for a data enthusiast who transforms raw data into actionable insights. Let's connect </p>
