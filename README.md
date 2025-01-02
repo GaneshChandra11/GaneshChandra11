@@ -10,6 +10,16 @@
   </h1>
 <p align="justify"> I'm a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My journey started as a Full-Stack Developer, but my love for data propelled me into analytics, where I thrive on solving real-world problems using data-driven solutions. </p> 
 
+<!--
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+-->
+
+
 <h3>🌟How I Add Value</h3>  
 
 - 🧼 Data Cleaning & Modeling: Enhancing data quality through meticulous standardization, deduplication, and transformation.
@@ -22,24 +32,54 @@
 <p align="left"> 
   <!-- Profile Visitors Badge --> 
   <img src="https://komarev.com/ghpvc/?username=ganesh-chandra-panda&label=Profile+Visitors&style=for-the-badge&color=310059"> </p>
+  
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
 <!-- Tools and Technologies Section -->
 
 <h2>💻 Tech Stack</h2> 
-<p> 
+<div align="center">
+   <h2>Languages:</h2> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,sqlite,js,git" />
+  </a>
+  <br>
+  <h2>Tools:</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,anaconda,vscode,flask,django,aws" />
+  </a>
+</div>
+<!--3d ani-->
+<!-- <p> 
     <a href="#"> <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50" height="50" title="Microsoft Excel"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="Power BI" width="50" height="50" title="Power BI"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySQL" width="50" height="50" title="MySQL"/> </a> 
     <a href="#"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50" title="Python"/> </a> 
     
-</p>
+</p> -->
 
 
 <!-- Fun Section -->
 <!-- <h2>⚡ Fun Fact</h2> I transitioned from a Software Engineer to a Data Professional and never looked back. Every dataset has a story and I enjoy being its storyteller.✨
 -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- Status Section -->
+# 📈  Stats:
+ 
+<p align = "center">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=shantanu1109&show_icons=true&theme=radical&line_height=27">
+ 
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shantanu1109&theme=radical">
+ </p>
+ 
+ <p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shantanu1109&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <!-- Closing Section -->
-<h3 align="center">🤝 Let’s Connect & Collaborate!</h3>
+<h3 align="center">🤝 Let’s Connect & Collaborate!🤝</h3>
 <p align="center"> Your next impactful decision might just start with data. If you're looking for a data enthusiast who transforms raw data into actionable insights. Let's connect </p>
 
 <p align="center"> 
@@ -52,4 +92,5 @@
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Thanks+For+Visiting!%E2%9C%8C%F0%9F%8F%BD;Have+a+Nice+Day!+%E2%9C%A8" alt="Typing SVG" />
 </a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </h3>
