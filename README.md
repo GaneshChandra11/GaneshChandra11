@@ -64,6 +64,7 @@
 -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <!-- Status Section -->
+<!--
 # 📈  Stats:
  
 <p align = "center">
@@ -77,7 +78,7 @@
 </p> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+-->
 <!-- Closing Section -->
 <h3 align="center">🤝 Let’s Connect & Collaborate!🤝</h3>
 <p align="center"> Your next impactful decision might just start with data. If you're looking for a data enthusiast who transforms raw data into actionable insights. Let's connect </p>
