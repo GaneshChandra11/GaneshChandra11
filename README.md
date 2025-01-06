@@ -94,6 +94,12 @@
     <a href="mailto:ganeshchandra.cs.it@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width=50 height=50 alt="ganeshchandra.cs.it@gmail.com" style="margin-bottom: 5px;" />
     </a>
+    <!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=James%20Allen&quote=The%20dreamers%20are%20the%20saviors%20of%20the%20worlds.&theme=dark&bg_color=121212&author_color=ffeb95&accent_color=90ee90">
+
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 </p>
 <h3 align="center"> 
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
