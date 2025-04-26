@@ -14,7 +14,7 @@
 
 🌱 Lifelong Learner — I believe every day brings a new opportunity to grow and improve.
 
-🔍 Data Analyst | SQL Developer | SSIS Developer — Passionate about turning data into meaningful insights and driving smart decision-making.
+🔍 Data Analyst | SQL | SSIS — Passionate about turning data into meaningful insights and driving smart decision-making.
 
 🛠️ Building Expertise — Skilled in SQL, Power BI, SSIS, and actively expanding into Data Science (Python, Machine Learning, and more!).
 
