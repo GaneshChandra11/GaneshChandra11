@@ -9,6 +9,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=raleway&size=27&pause=1000&color=1CF7D0&width=435&lines=Hi%F0%9F%91%8B%F0%9F%8F%BD+;I'm+Ganesh+Chandra+Panda+;You+are+Welcome!+%E2%9C%A8" alt="Typing SVG" /></a>
   </h1>
   <p align="justify"> 
+      
 ✨ Student of Life
 🌱 Lifelong Learner — I believe every day brings a new opportunity to grow and improve.
 
@@ -34,14 +35,14 @@
 -->
 
 
-<h3>🌟How I Add Value</h3>  
+<!-- <h3>🌟How I Add Value</h3>  
 
 - 🧼 Data Cleaning & Modeling: Enhancing data quality through meticulous standardization, deduplication, and transformation.
 - 📊 Data Visualization: Designing compelling visuals to translate complex data into clear, actionable insights.
 - 📝 Reporting & Dashboarding: Developing interactive dashboards that tell data-driven stories and drive informed decisions.   
 - 🔍 Data Analysis: Identifying trends, patterns, and opportunities to unlock value from raw datasets.    
 - 📈 Business Intelligence: Providing strategic insights to support key business decisions and objectives.  
-- 💡 Data Storytelling: Transforming numbers into relatable narratives to engage and inform diverse audiences.  
+- 💡 Data Storytelling: Transforming numbers into relatable narratives to engage and inform diverse audiences.  --> 
 <!-- Profile Visitors Counter --> 
 <p align="left"> 
   <!-- Profile Visitors Badge --> 
