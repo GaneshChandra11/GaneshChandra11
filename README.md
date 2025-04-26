@@ -19,10 +19,10 @@
 🚀 Growth Mindset — Embracing challenges, continuous learning, and striving for excellence in data engineering and analytics.
 
 🌎 Open to Collaboration — Eager to contribute, collaborate, and be a part of exciting data-driven projects and communities.
-
-
   </p>
-<!-- <p align="justify"> I'm a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My journey started as a Full-Stack Developer, but my love for data propelled me into analytics, where I thrive on solving real-world problems using data-driven solutions. </p>  -->
+<!-- 
+<p align="justify"> I'm a Data Analyst with an engineering foundation and a passion for turning raw data into impactful insights. My journey started as a Full-Stack Developer, but my love for data propelled me into analytics, where I thrive on solving real-world problems using data-driven solutions. </p> 
+-->
 
 <!--
 <h3 align="left">Current Learning</h3>
