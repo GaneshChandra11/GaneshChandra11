@@ -10,7 +10,8 @@
   </h1>
   <p align="justify"> 
       
-✨ Student of Life & Student for Life
+✨ Student of Life 
+<!--& Student for Life-->
 
 🌱 Lifelong Learner — I believe every day brings a new opportunity to grow and improve.
 
