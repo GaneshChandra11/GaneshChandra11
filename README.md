@@ -57,20 +57,19 @@
 
 <h2>💻 Tech Stack</h2> 
 <div align="center">
-   <h2>Languages:</h2> 
+   <h2>Languages & Tools:</h2> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,sqlite,js,git" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,mongodb,sqlite,js,git" />
      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
           <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
           <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
     
   </a>
   <br>
-  <h2>Tools:</h2>
   <a href="https://skillicons.dev">
     <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="55" height="55"/>
     <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="55" height="55"/>
-    <img src="https://skillicons.dev/icons?i=github,anaconda,vscode,flask,django,aws" />
+    <img src="https://skillicons.dev/icons?i=github,notion,vscode,flask,django,aws,azure,gcp" />
     
   </a>
 </div>
