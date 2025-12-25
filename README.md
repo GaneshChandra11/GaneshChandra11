@@ -17,7 +17,7 @@
 
 🔍 Data Analyst | SQL | SSIS — Passionate about turning data into meaningful insights and driving smart decision-making.
 
-🛠️ Building Expertise — Skilled in SQL, Power BI, SSIS, ADF, ADB and actively expanding into Data Science.
+🛠️ Building Expertise — Skilled in SQL, Power BI, SSIS, ADF, ADB, PySpark and actively expanding into Data Science.
 <!--(Python, Machine Learning, and more!).-->
 
 🚀 Growth Mindset — Embracing challenges, continuous learning, and striving for excellence in data engineering and analytics.
