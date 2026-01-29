@@ -69,7 +69,7 @@
   <a href="https://skillicons.dev">
     <img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="55" height="55"/>
     <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="55" height="55"/>
-    <img src="https://skillicons.dev/icons?i=github,notion,vscode,flask,django,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=github,notion,vscode,fastapi,django,aws,azure,gcp" />
     
   </a>
 </div>
